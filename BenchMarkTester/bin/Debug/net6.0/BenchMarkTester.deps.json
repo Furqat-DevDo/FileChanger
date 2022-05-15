@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BenchMarkTester/1.0.0": {
+        "dependencies": {
+          "FileChager": "1.0.0"
+        },
+        "runtime": {
+          "BenchMarkTester.dll": {}
+        }
+      },
+      "FileChager/1.0.0": {
+        "runtime": {
+          "FileChager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BenchMarkTester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileChager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\FurqatBek\Projects\NewProject\FileChager\bin\Release\net6.0\FileChager.exe
+C:\Users\FurqatBek\Projects\NewProject\FileChager\bin\Release\net6.0\FileChager.deps.json
+C:\Users\FurqatBek\Projects\NewProject\FileChager\bin\Release\net6.0\FileChager.runtimeconfig.json
+C:\Users\FurqatBek\Projects\NewProject\FileChager\bin\Release\net6.0\FileChager.dll
+C:\Users\FurqatBek\Projects\NewProject\FileChager\bin\Release\net6.0\FileChager.pdb
+C:\Users\FurqatBek\Projects\NewProject\FileChager\obj\Release\net6.0\FileChager.csproj.AssemblyReference.cache
+C:\Users\FurqatBek\Projects\NewProject\FileChager\obj\Release\net6.0\FileChager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FurqatBek\Projects\NewProject\FileChager\obj\Release\net6.0\FileChager.AssemblyInfoInputs.cache
+C:\Users\FurqatBek\Projects\NewProject\FileChager\obj\Release\net6.0\FileChager.AssemblyInfo.cs
+C:\Users\FurqatBek\Projects\NewProject\FileChager\obj\Release\net6.0\FileChager.csproj.CoreCompileInputs.cache
+C:\Users\FurqatBek\Projects\NewProject\FileChager\obj\Release\net6.0\FileChager.dll
+C:\Users\FurqatBek\Projects\NewProject\FileChager\obj\Release\net6.0\refint\FileChager.dll
+C:\Users\FurqatBek\Projects\NewProject\FileChager\obj\Release\net6.0\FileChager.pdb
+C:\Users\FurqatBek\Projects\NewProject\FileChager\obj\Release\net6.0\FileChager.genruntimeconfig.cache
+C:\Users\FurqatBek\Projects\NewProject\FileChager\obj\Release\net6.0\ref\FileChager.dll
